@@ -22,4 +22,4 @@ Vacation Pay Calculator — это веб-приложение на Java, раз
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/a23d45/vacation-pay-calculator.git
+   git clone https://github.com/a23d45/vacationcalculator.git
